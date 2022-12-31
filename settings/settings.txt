@@ -1,0 +1,4 @@
+{
+    "subject":"Trust",
+    "scam_link":"https://example.com"
+}
